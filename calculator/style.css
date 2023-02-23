@@ -1,0 +1,27 @@
+body{
+    /* display: flex; */
+}
+
+
+.buttons{
+    height: 35px;
+    width: 42px;
+    color: black;
+    border: 0px solid black;
+    /* margin: 5px; */
+}
+ 
+
+
+#calbox{
+    text-align: center;
+    height: 600px;
+
+}
+#container{
+    display: flex;
+    text-align: center;
+    height: 480px;
+    align-items: center;
+    justify-content: center;
+}
